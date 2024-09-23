@@ -1,6 +1,5 @@
-# calc
-
-A new Flutter project.
+# Calculator
+Flutter calculator to perform basic arithmetic operations
 
 ## Getting Started
 
